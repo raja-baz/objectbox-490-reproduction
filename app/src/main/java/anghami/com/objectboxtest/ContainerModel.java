@@ -10,6 +10,4 @@ import io.objectbox.relation.ToMany;
 @Entity
 public class ContainerModel {
   @Id public long _id;
-
-  public ToMany<ElementModel> elements;
 }

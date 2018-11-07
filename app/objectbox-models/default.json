@@ -13,12 +13,7 @@
           "name": "_id"
         }
       ],
-      "relations": [
-        {
-          "id": "1:3296401424871427172",
-          "name": "elements"
-        }
-      ]
+      "relations": []
     },
     {
       "id": "2:3839830151068449270",
@@ -62,6 +57,8 @@
   "retiredEntityUids": [],
   "retiredIndexUids": [],
   "retiredPropertyUids": [],
-  "retiredRelationUids": [],
+  "retiredRelationUids": [
+    3296401424871427172
+  ],
   "version": 1
 }

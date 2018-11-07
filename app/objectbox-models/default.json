@@ -16,22 +16,6 @@
       "relations": []
     },
     {
-      "id": "2:3839830151068449270",
-      "lastPropertyId": "2:3009567476473191354",
-      "name": "ElementModel",
-      "properties": [
-        {
-          "id": "1:5019099405291475077",
-          "name": "_id"
-        },
-        {
-          "id": "2:3009567476473191354",
-          "name": "data"
-        }
-      ],
-      "relations": []
-    },
-    {
       "id": "3:7459309208534282851",
       "lastPropertyId": "2:8245914255657310383",
       "name": "UnrelatedModel",
@@ -54,9 +38,14 @@
   "lastSequenceId": "0:0",
   "modelVersion": 4,
   "modelVersionParserMinimum": 4,
-  "retiredEntityUids": [],
+  "retiredEntityUids": [
+    3839830151068449270
+  ],
   "retiredIndexUids": [],
-  "retiredPropertyUids": [],
+  "retiredPropertyUids": [
+    5019099405291475077,
+    3009567476473191354
+  ],
   "retiredRelationUids": [
     3296401424871427172
   ],
